@@ -1,3 +1,4 @@
 # Tuto Web
 
-Ouvrez le fichier `index.html` avec votre navigateur.
+- [Les bases](bases.md)
+- [Les inputs](input.md)
