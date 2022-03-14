@@ -2,3 +2,4 @@
 
 - [Les bases](bases.md)
 - [Les inputs](input.md)
+- [Les formulaires](form.md)
