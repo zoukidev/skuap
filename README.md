@@ -28,6 +28,3 @@
 - [Flat Icon](https://www.flaticon.com/)
 - [TopTal](https://www.toptal.com/designers/subtlepatterns/)
 - [Adobe Color](https://color.adobe.com/fr/create/color-wheel)
-
-## Exercises
-- [Exercise 01](./exercises/exercise_01.md)
