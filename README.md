@@ -28,3 +28,7 @@
 - [Flat Icon](https://www.flaticon.com/)
 - [TopTal](https://www.toptal.com/designers/subtlepatterns/)
 - [Adobe Color](https://color.adobe.com/fr/create/color-wheel)
+
+## Cheat Sheets
+- [Git sheet](https://gitsheet.wtf)
+- [Can i use](https://caniuse.com)
