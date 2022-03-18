@@ -32,3 +32,9 @@
 ## Cheat Sheets
 - [Git sheet](https://gitsheet.wtf)
 - [Can i use](https://caniuse.com)
+
+## Extensions
+- [CSS Peeper](https://csspeeper.com)
+- [Cors](https://devratroom.blogspot.com/p/cross-domain-cors-extension.html)
+- [ColorZilla](https://www.colorzilla.com/chrome/)
+- [ColorZilla](https://www.colorzilla.com/chrome/)
